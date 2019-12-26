@@ -1,0 +1,8 @@
+#1-BulletSpeed recommended 80-350
+#2-up targets approachspeed recommedneded 0.01-0.09
+#3-down targets approachspeed recommedneded 0.01-0.09
+#4-Starting Enivironment 0-Earth 1-Tron
+#5-Sphere sizes recommednded 0.4-0.65
+350	0.015	0.02	0	0.5
+#the lines after the hash are iignored
+#comment bra7tk
